@@ -1,2 +1,2 @@
-include ':SynamediaTestLib'
+include ':synamediaTestLib'
 rootProject.name = "SynamediaTestLib"
